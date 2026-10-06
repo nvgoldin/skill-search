@@ -1,0 +1,47 @@
+.gitignore
+  s_224cdab1381cf7::t_1f4f06ebed2543 1-3
+bin/pi-skill.ts
+  s_224cdab1381cf7::t_0eb4dd34ae65f9 1-99
+eval/gateway.ts
+  s_224cdab1381cf7::t_7b8742c9c2abee 1-123
+eval/judge-labels.ts
+  s_224cdab1381cf7::t_330ca85f3ee013 1-140
+eval/run-eval.ts
+  s_224cdab1381cf7::t_a1323260176481 1-239
+eval/telemetry-to-dataset.ts
+  s_224cdab1381cf7::t_0d89ad2d3dd789 1-94
+eval/tune.ts
+  s_224cdab1381cf7::t_b5d7f55b42dff4 1-172
+extension/index.ts
+  s_224cdab1381cf7::t_83494a0b5a0e17 1-224
+src/catalog.ts
+  s_224cdab1381cf7::t_b2c028ae4ba3d5 1-166
+src/config.ts
+  s_224cdab1381cf7::t_b97a1d702b4ff2 1-53
+src/index-store.ts
+  s_224cdab1381cf7::t_9b39655fbd0fef 1-145
+src/read.ts
+  s_224cdab1381cf7::t_c1cfedeb278033 1-15
+src/search.ts
+  s_224cdab1381cf7::t_8a7068dd82f672 1-214
+src/telemetry.ts
+  s_224cdab1381cf7::t_37ca55ef70eea4 1-33
+test/config.test.ts
+  s_224cdab1381cf7::t_1c115545ab509d 1-27
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.20",
+  "base_commit_sha": "b8b9e878e21aa44eacab6cfe53dcca644449c479",
+  "prompts": {},
+  "sessions": {
+    "s_224cdab1381cf7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "268e3085-a630-4705-8771-90e1cb8ab0c1",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "nvgoldin <13018704+nvgoldin@users.noreply.github.com>"
+    }
+  }
+}
