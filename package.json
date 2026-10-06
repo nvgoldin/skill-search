@@ -1,0 +1,26 @@
+{
+  "name": "pi-skill-search",
+  "version": "0.1.0",
+  "description": "Local index and tools that replace the model-facing skill catalog with on-demand search and read",
+  "type": "module",
+  "license": "MIT",
+  "repository": "github:nvgoldin/skill-search",
+  "pi": {
+    "extensions": [
+      "./extension/index.ts"
+    ]
+  },
+  "bin": {
+    "pi-skill": "./bin/pi-skill.ts"
+  },
+  "dependencies": {
+    "yaml": "^2.5.0"
+  },
+  "peerDependencies": {
+    "@earendil-works/pi-ai": "*",
+    "@earendil-works/pi-coding-agent": "*"
+  },
+  "engines": {
+    "node": ">=24"
+  }
+}
